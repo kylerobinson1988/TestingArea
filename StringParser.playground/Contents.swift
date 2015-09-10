@@ -117,6 +117,24 @@ class StringParser {
         
     }
     
+    func reverseString() -> String {
+        
+        
+        //This function returns the reverse of the string initialized.
+        
+        var finalString = ""
+        
+        for item in stringInQuestion {
+            
+            
+            finalString = "\(item)" + finalString
+            
+        }
+        
+        return finalString
+        
+    }
+    
     init(myString: String) {
         
         self.stringInQuestion = myString
@@ -137,6 +155,7 @@ StringParser(myString: boringString).makeNewArray()
 StringParser(myString: commaString).makeNewArray()
 StringParser(myString: hydrantString).makeNewArray()
 
+StringParser(myString: hydrantString).reverseString()
 
 
 

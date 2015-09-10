@@ -7,18 +7,18 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>3DE24CE1-F6F7-4EE4-AFDD-A594325424FE</string>
 	<key>IDESourceControlProjectName</key>
-	<string>FamilyPlayground</string>
+	<string>playground</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>9E8819D4C523209E99B9A9AC65354491FFB5358D</key>
 		<string>https://github.com/kylerobinson1988/TestingArea.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>FamilyPlayground.playground</string>
+	<string>FamilyPlayground.playground/playground.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>9E8819D4C523209E99B9A9AC65354491FFB5358D</key>
-		<string>..</string>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/kylerobinson1988/TestingArea.git</string>
